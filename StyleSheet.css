@@ -1,0 +1,69 @@
+html {
+	font-size: 10px;
+	background-color: pink;
+	margin-top: 0px;
+	padding: 0px;
+	
+}
+
+img {
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: auto;
+	border: 4px solid pink;
+}
+
+body {
+	opacity: 99%;
+	background: seashell;
+	text-align: center;
+	font-size: 1.5rem;
+	line-height: 1.5;
+	font-family: Arial;
+	margin: 0 100px 0 100px;
+	overflow: auto;
+	color: orchid;
+}
+
+h1 {
+	margin: 20px 0 5px 0;
+	background: palegreen;
+	opacity: 65%;
+	color: black;
+}
+
+h2 {
+	margin: auto;
+	color: orchid;
+	opacity: 80%;
+}
+
+h3 {
+	font-size: 2.5rem;
+	color: black;
+	background: palegreen;
+	padding: 2px;
+	max-width: auto;
+	text-align: center;
+	margin: 70px 699px 50px 699px;
+	opacity: 60%;
+}
+
+p {
+	font-size: 130%;
+	opacity: 80%
+}
+
+ul {
+	max-width: 200px;
+	margin: 0 auto 50px auto;
+	text-align: left;
+	line-height: 2;
+	font-size: 2rem;
+	background: coral;
+	color: black;
+	opacity: 65%;
+}
+
+
